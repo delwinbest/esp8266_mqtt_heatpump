@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"C_Cpp.intelliSenseEngineFallback": "Disabled",
+		"C_Cpp.intelliSenseEngine": "Tag Parser",
+		"files.associations": {
+			"functional": "cpp",
+			"array": "cpp",
+			"initializer_list": "cpp"
+		},
+		"cquery.cacheDirectory": "${workspaceFolder}/.vscode/cquery_cached_index/"
+	}
+}
